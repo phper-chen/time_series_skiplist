@@ -1,4 +1,4 @@
-## A skip list is writen in rust 
+## A skip list in perspective of rust
 ### No update and remove handles which is only appended with nodes in a natural order of timestamp
 #### Supports:
 ##### 1. append
